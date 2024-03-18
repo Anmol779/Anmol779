@@ -1,0 +1,8 @@
+- 👋 Hi there, I’m Anmol Kumar sharma
+- from cse department, iit dharwad
+- 👀 I’m passionate about exploring the realms of Machine Learning, Deep Learning, OpenCV, NLP, and competitive programming.
+- 🌱 Currently, I'm diving deep into advanced ML/DL techniques and sharpening my coding skills through competitive programming challenges.
+- 💼 I’m open to collaborating on exciting projects in the fields of AI, ML, and open-source development.
+- 📫 Reach out to me via [email/anmol@example.com](anmolsharma425an@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/anmol-kumar-sharma-5758a2259).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: When I'm not coding, you can find me exploring new hiking trails or experimenting with new recipes in the kitchen!
